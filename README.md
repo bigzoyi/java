@@ -17,4 +17,4 @@ effective java https://github.com/HackathonHackers/programming-ebooks/blob/maste
   
 ##重要软件
 
-astah-professional
+astah-professional：破解版安装 http://bbs.feng.com/read-htm-tid-8907096.html
