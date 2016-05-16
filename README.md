@@ -7,6 +7,8 @@ effective java https://github.com/HackathonHackers/programming-ebooks/blob/maste
 ##java并发编程
 ###Java并发编程：Callable、Future和FutureTask
   http://www.cnblogs.com/dolphin0520/p/3949310.html
+###Java多线程--让主线程等待所有子线程执行完毕 
+  http://www.iteye.com/topic/581476
 
 ###finagle(twitter的一个RFC框架)
   example https://github.com/jghoman/finagle-java-example
