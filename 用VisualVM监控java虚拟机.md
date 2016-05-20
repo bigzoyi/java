@@ -13,6 +13,9 @@ grant codebase "file:${java.home}/../lib/tools.jar" {
 ###1.2、        启动jstatd
 jstatd -J-Djava.security.policy=/home/admin/jstatd.java.policy -J-Djava.rmi.server.logCalls=true
 
+
+jstatd -J-Djava.security.policy=jstatd.all.policy -J-Djava.rmi.server.logCalls=true -J-Dcom.sun.management.jmxremote.port=8888 -J-Dcom.sun.management.jmxremote.ssl=false -J-Dcom.sun.management.jmxremote.authenticate=false &  
+
 ###1.3、        同时需要执行一个命令看看（linux需要）
 Hostname –i
 如果显示是127.0.0.1，则需要修改/etc/hosts文件，去掉对本机名的配置，让本机名解析到它的IP地址，如10.20.131.214
