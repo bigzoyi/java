@@ -23,9 +23,12 @@ astah-professional：破解版安装 http://bbs.feng.com/read-htm-tid-8907096.ht
 
 ##java开源电子商城系统
 
-基于 OFBiz 的电商平台 BigFish
-The Apache OFBiz™ Project
+###基于 OFBiz 的电商平台 BigFish
+http://bigfish.solveda.com/bfDownload.html
+http://www.apache.org/dyn/closer.lua/ofbiz/apache-ofbiz-13.07.03.zip
 
+###收费
+The Apache OFBiz™ Project
 Java开源网店系统 SHOP++
 Java商场系统 JEShop
 网上商店系统 JAVASHOP
