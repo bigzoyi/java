@@ -20,3 +20,24 @@ effective java https://github.com/HackathonHackers/programming-ebooks/blob/maste
 ##重要软件
 
 astah-professional：破解版安装 http://bbs.feng.com/read-htm-tid-8907096.html
+
+##java开源电子商城系统
+
+基于 OFBiz 的电商平台 BigFish
+The Apache OFBiz™ Project
+
+Java开源网店系统 SHOP++
+Java商场系统 JEShop
+网上商店系统 JAVASHOP
+多用户Java商城系统 LegendShop
+Java商城网店软件 TurboShop
+电子商务平台 faceCart
+宠物商店 PetStore
+Web销售管理系统 Shopizer
+在线商城系统 jshoper（ostocy-jshop）
+Web应用框架 Pulse-java
+Kgmall 金刚多用户商城系统 kgMall
+Java 的网店系统(B2C) jeeshop
+Java 电子商务软件 Broadleaf
+电子商务应用程序 Smilehouse Workspace
+
