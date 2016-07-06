@@ -49,3 +49,6 @@ Java 电子商务软件 Broadleaf
 
 http://www.hollischuang.com/archives/489
 
+###JVM
+http://www.cnblogs.com/smyhvae/p/4810168.html
+
