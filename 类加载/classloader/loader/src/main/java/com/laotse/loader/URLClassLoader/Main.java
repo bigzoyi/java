@@ -13,8 +13,8 @@ import java.net.URL;
  */
 public class Main {
     public static void main(String[] args) {
-        runTest("D:\\GitHub\\java\\classloader\\hello1\\target\\hello1-1.0-SNAPSHOT.jar");
-        runTest("D:\\GitHub\\java\\classloader\\hello2\\target\\hello2-1.0-SNAPSHOT.jar");
+        runTest("D:\\GitHub\\java\\类加载\\classloader\\hello1\\target\\hello1-1.0-SNAPSHOT.jar");
+        runTest("D:\\GitHub\\java\\类加载\\classloader\\hello2\\target\\hello2-1.0-SNAPSHOT.jar");
     }
 
     private static void runTest(String jarPath){

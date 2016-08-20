@@ -11,7 +11,7 @@ import java.lang.reflect.Method;
 public class RunLoader {
     public static void main(String[] args) throws Exception {
         FirstLoader loader1 = new FirstLoader("loader1");
-        loader1.setPath("D:\\GitHub\\java\\classloader\\hello1\\target\\classes\\com\\laotse\\example");
+        loader1.setPath("D:\\GitHub\\java\\类加载\\classloader\\hello1\\target\\classes\\com\\laotse\\example");
         Class<?> clazz1 = loader1.loadClass("com.laotse.example.User");
 //        IUser iUser1 = (IUser) clazz1.newInstance();
 //        iUser1.sayHello("Lily");
@@ -19,7 +19,7 @@ public class RunLoader {
         sayHello1.invoke(clazz1.newInstance(), "Lily");
 
         SencondLoader loader2 = new SencondLoader("loader2");
-        loader2.setPath("D:\\GitHub\\java\\classloader\\hello2\\target\\classes\\com\\laotse\\example");
+        loader2.setPath("D:\\GitHub\\java\\类加载\\classloader\\hello2\\target\\classes\\com\\laotse\\example");
         Class<?> clazz2 = loader2.loadClass("com.laotse.example.User");
 //        IUser iUser2 = (IUser) clazz2.newInstance();
 //        iUser2.sayHello("Lily");
