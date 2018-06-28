@@ -1,2 +1,7 @@
 jvm查看类加载顺序是啥参数：
 -verbose:class
+
+
+-verbose:class 
+-verbose:gc 
+-verbose:jni 
